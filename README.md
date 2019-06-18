@@ -1,2 +1,2 @@
-# Dataanalytics
+# Data analytics
 Data learning notes
